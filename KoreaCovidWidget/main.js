@@ -14,7 +14,7 @@
       // 쉼표 잊지 마세요!
       ['headphones', '음악'],
       ['qrcode', 'QR 체크인'],
-      ['house', '집'],
+      ['house', '집으로 가기'],
       ['dollarsign.circle', '계좌'],
     ]
   }
